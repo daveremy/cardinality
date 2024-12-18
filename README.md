@@ -49,10 +49,10 @@ Assets/
 2. Open the project in Unity 2022.3 LTS
 3. Open the main scene in `Assets/Scenes/Main.unity`
 
-## License
-
-[License details to be determined]
-
 ## Contributing
 
-[Contribution guidelines to be added] 
+We welcome contributions! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
